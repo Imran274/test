@@ -2,3 +2,4 @@ Rencana konten wpu
 
 - ini cuma nak tau branching 
 - Hello world!!
+- Struktur data 
